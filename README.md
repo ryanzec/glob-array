@@ -5,7 +5,6 @@ Simple wrapper for node-glob that allows you to pass in an array of patterns.
 # Usage
 
 ```javascript
-//async
 var patterns = [
   'pattern1',
   'pattern2'
