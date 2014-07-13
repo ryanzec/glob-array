@@ -1,0 +1,36 @@
+{
+  "name": "glob-array",
+  "version": "0.1.0",
+  "description": "Simple wrapper for node-glob that allows you to pass in an array of patterns",
+  "keywords": [
+    "glob",
+    "array",
+    "multiple"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanzec/glob-array"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanzec/glob-array/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ryan Zec",
+    "email": "code@ryanzec.com",
+    "url": "http://www.ryanzec.com"
+  },
+  "dependencies": {
+    "glob": "4.0.4"
+  },
+  "devDependencies": {
+    "mocha": "1.18.2",
+    "chai": "1.9.1",
+    "sinon": "1.9.1",
+    "co": "3.0.6"
+  },
+  "engines": {
+    "node": ">=0.10.25"
+  },
+  "main": "lib/index.js"
+}
