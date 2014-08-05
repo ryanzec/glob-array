@@ -1,6 +1,6 @@
 {
   "name": "glob-array",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple wrapper for node-glob that allows you to pass in an array of patterns",
   "keywords": [
     "glob",
