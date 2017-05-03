@@ -1,6 +1,6 @@
 {
   "name": "glob-array",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Simple wrapper for node-glob that allows you to pass in an array of patterns",
   "keywords": [
     "glob",
@@ -21,7 +21,7 @@
     "url": "http://www.ryanzec.com"
   },
   "dependencies": {
-    "glob": "4.0.4"
+    "glob": "7.1.1"
   },
   "devDependencies": {
     "mocha": "1.18.2",

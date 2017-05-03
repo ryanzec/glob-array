@@ -13,11 +13,7 @@ var globOptions = {
   /* any regular node-glob option */
 };
 
-//async
-globArray(patterns, globOptions, function (er, files) {
-  // your code
-});
-
+//NOTE: currently only support and sync option
 //sync
 var files = globArray.sync(patterns, globOptions);
 ```
